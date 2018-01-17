@@ -1,0 +1,21 @@
+{
+  "name": "trifid-plugin-markdown",
+  "description": "Trifid Markdown plugin",
+  "version": "0.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/zazuko/trifid-plugin-markdown",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zazuko/trifid-plugin-markdown.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zazuko/trifid-plugin-markdown/issues"
+  },
+  "scripts": {
+    "test": "standard && mocha"
+  },
+  "dependencies": {
+    "marked": "^0.3.12"
+  },
+  "devDependencies": {}
+}
